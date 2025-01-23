@@ -6,7 +6,6 @@ I am coming to the end of my software engineering bootcamp with HyperionDev, I h
 - 🔭 I’m currently working on finishing all my portfolio projects and adding OOP to ones previously completed. This is to create a portfolio, to aid my job search, and to land my first tech job!
 - 🌱 I’m currently learning OOP in Python, creating functioning programs using objects, classes and methods.
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I used to play guitar in an 80's style rock band and my hair was halfway down my back!😂
 - 📫 How to reach me: www.linkedin.com/in/matt-spencer-a834292a3
 
 Feel free to get in touch with any requests / collaborations!
